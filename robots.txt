@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://www.dailyrandomphoto.com/sitemap.xml
+Sitemap: https://dailyrandomphoto.now.sh/sitemap.xml
+Sitemap: https://photooftheday.now.sh/sitemap.xml
