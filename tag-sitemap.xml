@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
+        <lastmod>2019-07-08T01:52:39.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
         <lastmod>2019-07-06T08:22:08.015Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -12,13 +19,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Moon/</loc>
         <lastmod>2019-07-06T08:22:08.015Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
-        <lastmod>2019-07-06T08:16:51.791Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
