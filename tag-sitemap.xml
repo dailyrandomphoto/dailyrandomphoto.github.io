@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
+        <lastmod>2019-07-08T02:13:46.440Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
         <lastmod>2019-07-08T01:52:39.791Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +75,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Ocean/</loc>
         <lastmod>2019-07-06T02:23:33.849Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
-        <lastmod>2019-07-06T02:23:33.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
