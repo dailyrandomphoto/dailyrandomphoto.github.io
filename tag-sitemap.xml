@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
+        <lastmod>2019-07-09T02:19:36.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
         <lastmod>2019-07-08T07:05:31.440Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,13 +68,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
         <lastmod>2019-07-06T02:23:33.851Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
-        <lastmod>2019-07-06T02:23:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
