@@ -1,7 +1,4 @@
 {
-  "alias": ["dailyrandomphoto.now.sh", "photooftheday.now.sh", "randomphoto.now.sh", "dailyphoto.now.sh", "picoftheday.now.sh", "todayphoto.now.sh"],
-  "github": {
-    "autoAlias": true
-  }
+  "alias": "dailyrandomphoto.now.sh"
 }
 
