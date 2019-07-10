@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Window/</loc>
+        <lastmod>2019-07-10T07:08:10.538Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
+        <lastmod>2019-07-10T07:08:10.538Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
         <lastmod>2019-07-09T06:52:30.096Z</lastmod>
         <changefreq>weekly</changefreq>
