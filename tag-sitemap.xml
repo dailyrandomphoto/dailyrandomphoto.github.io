@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Road/</loc>
+        <lastmod>2019-07-11T02:10:54.312Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
+        <lastmod>2019-07-11T02:10:54.312Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
+        <lastmod>2019-07-11T02:10:54.312Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Window/</loc>
         <lastmod>2019-07-10T07:08:10.538Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
-        <lastmod>2019-07-06T02:23:33.852Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
         <lastmod>2019-07-06T02:23:33.851Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +123,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
-        <lastmod>2019-07-06T02:23:33.845Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
         <lastmod>2019-07-06T02:23:33.845Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -187,13 +194,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cookie/</loc>
         <lastmod>2019-07-06T02:23:33.455Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Road/</loc>
-        <lastmod>2019-07-06T02:23:33.376Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
