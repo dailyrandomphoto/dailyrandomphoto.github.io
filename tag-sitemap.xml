@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Street/</loc>
+        <lastmod>2019-07-12T06:58:37.849Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/New-York/</loc>
+        <lastmod>2019-07-12T06:58:37.849Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
+        <lastmod>2019-07-12T06:58:37.849Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Road/</loc>
         <lastmod>2019-07-12T03:42:55.312Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,28 +45,7 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Street/</loc>
-        <lastmod>2019-07-12T03:40:40.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/New-York/</loc>
-        <lastmod>2019-07-12T03:40:40.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Vehicles/</loc>
-        <lastmod>2019-07-12T03:40:40.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
         <lastmod>2019-07-12T03:40:40.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
