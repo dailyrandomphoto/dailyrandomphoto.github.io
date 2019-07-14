@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
+        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
+        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
+        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
+        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
         <lastmod>2019-07-13T05:16:15.562Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,13 +53,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Road/</loc>
-        <lastmod>2019-07-12T03:42:55.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
         <lastmod>2019-07-12T03:42:55.312Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -117,20 +138,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
         <lastmod>2019-07-11T02:17:59.846Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
-        <lastmod>2019-07-11T02:17:59.845Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-07-11T02:17:59.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
