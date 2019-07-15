@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Surfing/</loc>
+        <lastmod>2019-07-15T06:52:24.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
+        <lastmod>2019-07-15T06:52:24.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
+        <lastmod>2019-07-15T06:52:24.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
         <lastmod>2019-07-14T07:47:34.867Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
-        <lastmod>2019-07-12T03:42:55.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Vehicles/</loc>
         <lastmod>2019-07-12T03:40:40.527Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +130,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
-        <lastmod>2019-07-11T02:17:59.848Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
         <lastmod>2019-07-11T02:17:59.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
