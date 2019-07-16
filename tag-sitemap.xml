@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/River/</loc>
+        <lastmod>2019-07-16T01:45:01.395Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
+        <lastmod>2019-07-16T01:45:01.395Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Surfing/</loc>
         <lastmod>2019-07-15T06:52:24.410Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,13 +61,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
         <lastmod>2019-07-14T07:47:34.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-07-13T05:16:15.562Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
