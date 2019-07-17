@@ -4,14 +4,21 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/River/</loc>
-        <lastmod>2019-07-16T01:45:01.395Z</lastmod>
+        <lastmod>2019-07-17T04:45:14.395Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-07-16T01:45:01.395Z</lastmod>
+        <lastmod>2019-07-17T04:45:14.395Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Rain/</loc>
+        <lastmod>2019-07-17T04:29:58.159Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
