@@ -4,21 +4,35 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-07-17T22:53:30.963Z</lastmod>
+        <lastmod>2019-07-19T00:58:24.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/City/</loc>
-        <lastmod>2019-07-17T22:53:30.963Z</lastmod>
+        <lastmod>2019-07-19T00:58:24.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
-        <lastmod>2019-07-17T22:53:30.963Z</lastmod>
+        <lastmod>2019-07-19T00:58:24.963Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
+        <lastmod>2019-07-19T00:55:36.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
+        <lastmod>2019-07-19T00:55:36.462Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -60,13 +74,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
         <lastmod>2019-07-14T07:47:34.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,13 +159,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
         <lastmod>2019-07-11T02:17:59.848Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
-        <lastmod>2019-07-11T02:17:59.846Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
