@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Bridge/</loc>
+        <lastmod>2019-07-21T07:07:40.245Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
+        <lastmod>2019-07-21T07:07:27.837Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Silhouette/</loc>
         <lastmod>2019-07-20T03:33:14.462Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +270,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Window/</loc>
-        <lastmod>2019-07-11T02:17:58.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
         <lastmod>2019-07-11T02:17:58.538Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
