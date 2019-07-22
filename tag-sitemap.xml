@@ -4,14 +4,21 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Night-Sky/</loc>
-        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <lastmod>2019-07-22T05:20:42.302Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Stars/</loc>
-        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <lastmod>2019-07-22T05:20:42.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
+        <lastmod>2019-07-22T05:20:42.302Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -26,13 +33,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
         <lastmod>2019-07-22T03:24:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
-        <lastmod>2019-07-22T03:24:49.302Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
