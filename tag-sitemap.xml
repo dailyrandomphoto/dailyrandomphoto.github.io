@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Night-Sky/</loc>
+        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Stars/</loc>
+        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sand/</loc>
+        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
+        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
+        <lastmod>2019-07-22T03:24:49.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Bridge/</loc>
         <lastmod>2019-07-21T07:07:40.245Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
-        <lastmod>2019-07-11T02:17:59.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
         <lastmod>2019-07-11T02:17:59.851Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,22 +276,8 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
-        <lastmod>2019-07-11T02:17:59.015Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Moon/</loc>
         <lastmod>2019-07-11T02:17:59.015Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sand/</loc>
-        <lastmod>2019-07-11T02:17:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
