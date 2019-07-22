@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Nature/</loc>
+        <lastmod>2019-07-22T17:51:48.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sunrise/</loc>
+        <lastmod>2019-07-22T17:51:48.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
+        <lastmod>2019-07-22T17:51:48.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
+        <lastmod>2019-07-22T17:51:48.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Night-Sky/</loc>
         <lastmod>2019-07-22T05:20:42.302Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,13 +53,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sand/</loc>
-        <lastmod>2019-07-22T03:24:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
         <lastmod>2019-07-22T03:24:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
-        <lastmod>2019-07-11T02:17:59.850Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Ocean/</loc>
         <lastmod>2019-07-11T02:17:59.849Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -201,13 +215,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
         <lastmod>2019-07-11T02:17:59.848Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sunrise/</loc>
-        <lastmod>2019-07-11T02:17:59.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
