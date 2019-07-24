@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Bonsai-Tree/</loc>
+        <lastmod>2019-07-24T05:02:32.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
+        <lastmod>2019-07-24T05:02:32.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
+        <lastmod>2019-07-24T05:02:32.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Nature/</loc>
         <lastmod>2019-07-23T05:10:46.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Plants/</loc>
-        <lastmod>2019-07-20T03:33:14.462Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
         <lastmod>2019-07-19T00:58:24.963Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,13 +158,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
         <lastmod>2019-07-14T07:47:34.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
