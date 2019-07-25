@@ -3,29 +3,36 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Starry-Night/</loc>
+        <lastmod>2019-07-25T07:51:54.253Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Camping/</loc>
-        <lastmod>2019-07-24T16:23:28.253Z</lastmod>
+        <lastmod>2019-07-25T07:51:54.253Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Night-Sky/</loc>
-        <lastmod>2019-07-24T16:23:28.253Z</lastmod>
+        <lastmod>2019-07-25T07:51:54.253Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Stars/</loc>
-        <lastmod>2019-07-24T16:23:28.253Z</lastmod>
+        <lastmod>2019-07-25T07:51:54.253Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Night/</loc>
-        <lastmod>2019-07-24T16:23:28.253Z</lastmod>
+        <lastmod>2019-07-25T07:51:54.253Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
