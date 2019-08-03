@@ -3,35 +3,42 @@
 
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Wave/</loc>
-        <lastmod>2019-08-03T07:15:38.628Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
-        <lastmod>2019-08-03T07:15:38.628Z</lastmod>
+        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
+        <lastmod>2019-08-03T07:53:58.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-07-27T13:45:13.184Z</lastmod>
+        <lastmod>2019-08-03T07:53:58.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-07-27T13:45:13.184Z</lastmod>
+        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
+        <lastmod>2019-08-03T07:53:58.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/City/</loc>
+        <lastmod>2019-08-03T07:53:58.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Wave/</loc>
+        <lastmod>2019-08-03T07:53:43.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
         <lastmod>2019-07-27T13:45:13.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -229,13 +236,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Surfing/</loc>
         <lastmod>2019-07-15T06:52:24.410Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
-        <lastmod>2019-07-14T07:47:34.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.dailyrandomphoto.com/"/>
-  <updated>2019-08-03T07:15:38.628Z</updated>
+  <updated>2019-08-03T07:53:58.617Z</updated>
   <id>https://www.dailyrandomphoto.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2019-08-05 (Mon)</title>
+    <link href="https://www.dailyrandomphoto.com/p/2019/2019-08-05/"/>
+    <id>https://www.dailyrandomphoto.com/p/2019/2019-08-05/</id>
+    <published>2019-08-04T16:00:00.000Z</published>
+    <updated>2019-08-03T07:53:58.617Z</updated>
+    
+    <summary type="html">
+    
+      Photo of the Day: cityscape facing ocean during golden hour. Photo by Nicolas J Leclercq on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    
+    </summary>
+    
+    
+      <category term="City" scheme="https://www.dailyrandomphoto.com/tags/City/"/>
+    
+      <category term="Sea" scheme="https://www.dailyrandomphoto.com/tags/Sea/"/>
+    
+      <category term="Golden Hour" scheme="https://www.dailyrandomphoto.com/tags/Golden-Hour/"/>
+    
+      <category term="Sunset" scheme="https://www.dailyrandomphoto.com/tags/Sunset/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2019-08-04 (Sun)</title>
     <link href="https://www.dailyrandomphoto.com/p/2019/2019-08-04/"/>
     <id>https://www.dailyrandomphoto.com/p/2019/2019-08-04/</id>
     <published>2019-08-03T16:00:00.000Z</published>
-    <updated>2019-08-03T07:15:38.628Z</updated>
+    <updated>2019-08-03T07:53:43.628Z</updated>
     
     <summary type="html">
     
@@ -653,28 +677,6 @@
     
     
       <category term="Plants" scheme="https://www.dailyrandomphoto.com/tags/Plants/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2019-07-06 (Sat)</title>
-    <link href="https://www.dailyrandomphoto.com/p/2019/2019-07-06/"/>
-    <id>https://www.dailyrandomphoto.com/p/2019/2019-07-06/</id>
-    <published>2019-07-05T16:00:00.000Z</published>
-    <updated>2019-07-11T02:17:59.015Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Quote-of-the-Day"><a href="#Quote-of-the-Day" class="headerlink" title="Quote of the Day"></a>Quote of the Day</h3><blockquote><p>The return we reap from generous actions is not always evident.</p><footer><strong>Francesco Guicciardini</strong><cite><a href="https://www.brainyquote.com/quotes/francesco_guicciardini_101492" target="_blank" rel="noopener">BrainyQuote</a></cite></footer></blockquote><img src="https://www.brainyquote.com/photos_tr/en/o/ottovonbismarck/161318/ottovonbismarck1-2x.jpg" title="Laws are like sausages, it is better not to see them being made. Otto von Bismarck"><p>from <a href="https://www.brainyquote.com/quotes/otto_von_bismarck_161318" target="_blank" rel="noopener">BrainyQuote</a></p>]]></content>
-    
-    <summary type="html">
-    
-      Photo of the Day: red and white full moon. Photo by Roberto Nickson on Unsplash. Quote of the Day: The return we reap from generous actions is not always evident. Francesco Guicciardini. Laws are like sausages, it is better not to see them being made. Otto von Bismarck.
-    
-    </summary>
-    
-    
-      <category term="Moon" scheme="https://www.dailyrandomphoto.com/tags/Moon/"/>
-    
-      <category term="Night" scheme="https://www.dailyrandomphoto.com/tags/Night/"/>
     
   </entry>
   
