@@ -3,14 +3,35 @@
 
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-08-05T03:05:53.963Z</lastmod>
+        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
+        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
+        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
+        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/City/</loc>
+        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
         <lastmod>2019-08-05T03:05:53.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -40,20 +61,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Mountain/</loc>
         <lastmod>2019-08-05T03:05:53.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
-        <lastmod>2019-08-05T03:05:53.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-08-05T03:05:53.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -109,13 +116,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cliff/</loc>
-        <lastmod>2019-08-05T03:05:53.848Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
         <lastmod>2019-08-05T03:05:53.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
