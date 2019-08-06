@@ -3,43 +3,43 @@
 
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Forest/</loc>
-        <lastmod>2019-08-06T01:52:12.997Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
-        <lastmod>2019-08-06T01:52:12.997Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
-        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
-        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/City/</loc>
-        <lastmod>2019-08-05T07:37:22.617Z</lastmod>
+        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Forest/</loc>
+        <lastmod>2019-08-06T02:20:16.997Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
+        <lastmod>2019-08-06T02:20:16.997Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
