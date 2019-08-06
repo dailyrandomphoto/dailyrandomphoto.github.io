@@ -3,28 +3,70 @@
 
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
-        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
+        <loc>https://www.dailyrandomphoto.com/tags/Wildlife/</loc>
+        <lastmod>2019-08-06T02:27:37.167Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Animals/</loc>
+        <lastmod>2019-08-06T02:27:37.167Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Lion/</loc>
+        <lastmod>2019-08-06T02:27:37.167Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Golden-Hour/</loc>
-        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
+        <lastmod>2019-08-06T02:27:25.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
-        <lastmod>2019-08-06T02:21:34.617Z</lastmod>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
+        <lastmod>2019-08-06T02:27:25.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/City/</loc>
+        <lastmod>2019-08-06T02:27:25.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
+        <lastmod>2019-08-06T02:27:25.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Wave/</loc>
+        <lastmod>2019-08-06T02:26:56.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
+        <lastmod>2019-08-06T02:26:56.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sunset/</loc>
         <lastmod>2019-08-06T02:21:34.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -40,20 +82,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Tree/</loc>
         <lastmod>2019-08-06T02:20:16.997Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-08-05T03:05:53.963Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Aerial-Photo/</loc>
-        <lastmod>2019-08-05T03:05:53.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Wave/</loc>
-        <lastmod>2019-08-05T03:05:53.628Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Window/</loc>
         <lastmod>2019-08-05T03:05:53.538Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,27 +320,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Bridge/</loc>
         <lastmod>2019-08-05T03:05:53.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Wildlife/</loc>
-        <lastmod>2019-08-05T03:05:53.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Animals/</loc>
-        <lastmod>2019-08-05T03:05:53.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Lion/</loc>
-        <lastmod>2019-08-05T03:05:53.167Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
