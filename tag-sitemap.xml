@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
+        <lastmod>2019-08-10T07:08:40.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Lighthouse/</loc>
         <lastmod>2019-08-09T06:40:11.461Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -152,13 +159,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
         <lastmod>2019-08-05T03:05:53.851Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Flower/</loc>
-        <lastmod>2019-08-05T03:05:53.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
