@@ -3,8 +3,29 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Island/</loc>
+        <lastmod>2019-08-14T03:52:21.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/New-Zealand/</loc>
+        <lastmod>2019-08-14T03:52:21.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Seashore/</loc>
+        <lastmod>2019-08-14T03:52:21.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Ocean/</loc>
-        <lastmod>2019-08-13T08:00:25.940Z</lastmod>
+        <lastmod>2019-08-13T08:04:09.110Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -60,13 +81,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
-        <lastmod>2019-08-11T01:31:23.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Seashore/</loc>
         <lastmod>2019-08-11T01:31:23.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
