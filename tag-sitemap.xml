@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Cookie/</loc>
+        <lastmod>2019-08-17T03:57:11.702Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
+        <lastmod>2019-08-17T03:57:11.702Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
         <lastmod>2019-08-16T08:01:12.323Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Cookie/</loc>
-        <lastmod>2019-08-05T03:05:53.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Beach/</loc>
         <lastmod>2019-08-05T03:05:53.909Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -397,13 +404,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sand/</loc>
         <lastmod>2019-08-05T03:05:53.906Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
-        <lastmod>2019-08-05T03:05:53.902Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
