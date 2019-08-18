@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
+        <lastmod>2019-08-18T02:16:48.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Cookie/</loc>
         <lastmod>2019-08-17T03:57:11.702Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +116,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Maldives/</loc>
-        <lastmod>2019-08-11T01:31:23.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
         <lastmod>2019-08-11T01:31:23.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
