@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Clouds/</loc>
+        <lastmod>2019-08-19T00:14:10.090Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Sky/</loc>
+        <lastmod>2019-08-19T00:14:10.090Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Sea/</loc>
         <lastmod>2019-08-18T02:16:48.258Z</lastmod>
         <changefreq>weekly</changefreq>
