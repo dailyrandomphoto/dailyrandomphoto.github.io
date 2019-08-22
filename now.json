@@ -1,3 +1,1 @@
-{
-  "alias": ["dailyrandomphoto.now.sh", "photooftheday.now.sh", "randomphoto.now.sh", "dailyphoto.now.sh", "picoftheday.now.sh", "todayphoto.now.sh"]
-}
+{"alias":["dailyrandomphoto.now.sh","photooftheday.now.sh","randomphoto.now.sh","dailyphoto.now.sh","picoftheday.now.sh","todayphoto.now.sh"],"routes":[{"handle":"filesystem"},{"src":"/.*","status":404,"dest":"/404.html"}]}
