@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
+        <lastmod>2019-08-22T06:38:58.784Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
+        <lastmod>2019-08-22T06:38:58.784Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/Nature/</loc>
         <lastmod>2019-08-21T02:01:13.723Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,20 +103,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/Food/</loc>
         <lastmod>2019-08-17T03:57:11.702Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Architecture/</loc>
-        <lastmod>2019-08-16T08:01:12.323Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/Buildings/</loc>
-        <lastmod>2019-08-16T08:01:12.323Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
