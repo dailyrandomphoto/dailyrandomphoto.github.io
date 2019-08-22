@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/half-moon/</loc>
+        <lastmod>2019-08-22T08:01:21.456Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/sky/</loc>
+        <lastmod>2019-08-22T08:01:21.456Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/moon/</loc>
+        <lastmod>2019-08-22T08:01:21.456Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/architecture/</loc>
         <lastmod>2019-08-22T06:38:58.784Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,13 +95,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/clouds/</loc>
-        <lastmod>2019-08-19T00:14:10.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/sky/</loc>
         <lastmod>2019-08-19T00:14:10.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -376,13 +390,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/cliff/</loc>
         <lastmod>2019-08-05T03:05:53.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/moon/</loc>
-        <lastmod>2019-08-05T03:05:53.910Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
