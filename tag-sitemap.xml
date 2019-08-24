@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/san-francisco/</loc>
+        <lastmod>2019-08-24T07:09:07.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/golden-gate-bridge/</loc>
+        <lastmod>2019-08-24T07:09:07.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/bridge/</loc>
+        <lastmod>2019-08-24T07:09:07.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/vehicles/</loc>
+        <lastmod>2019-08-24T07:06:58.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/half-moon/</loc>
         <lastmod>2019-08-22T08:01:21.456Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,27 +186,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/fog/</loc>
-        <lastmod>2019-08-11T17:47:12.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/san-francisco/</loc>
-        <lastmod>2019-08-11T17:47:12.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/golden-gate-bridge/</loc>
-        <lastmod>2019-08-11T17:47:12.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/bridge/</loc>
         <lastmod>2019-08-11T17:47:12.914Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -390,13 +397,6 @@
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/cliff/</loc>
         <lastmod>2019-08-05T03:05:53.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/vehicles/</loc>
-        <lastmod>2019-08-05T03:05:53.910Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
