@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/maldives/</loc>
+        <lastmod>2019-08-25T09:17:45.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/seashore/</loc>
+        <lastmod>2019-08-25T09:17:45.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/aerial-photo/</loc>
+        <lastmod>2019-08-25T09:17:45.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/san-francisco/</loc>
         <lastmod>2019-08-24T07:09:07.631Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/seashore/</loc>
-        <lastmod>2019-08-14T03:52:21.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/ocean/</loc>
         <lastmod>2019-08-13T08:04:09.110Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,22 +220,8 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/maldives/</loc>
-        <lastmod>2019-08-11T01:31:23.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/lighthouse/</loc>
         <lastmod>2019-08-09T06:40:11.917Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/aerial-photo/</loc>
-        <lastmod>2019-08-08T06:08:30.917Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
