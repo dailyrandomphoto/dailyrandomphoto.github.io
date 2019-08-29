@@ -51,4 +51,30 @@
         $mask.on('click', toggleToc);
         $('.navbar-main .catalogue').on('click', toggleToc);
     }
+
+    $(window).on("load", function() {
+    	if (disqus_shortname) {
+    		if ($("#disqus_thread").length > 0) {
+    			var d = document,
+    				s = d.createElement('script');
+    			s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+    			s.async = true;
+    			s.setAttribute('data-timestamp', +new Date());
+    			(d.head || d.body).appendChild(s);
+    			s.onload = function() {
+    				d.querySelectorAll(".disqus_view").forEach(function(v) {
+    					v.style.display = "block"
+    				});
+    			};
+    		}
+
+    		// <script id="dsq-count-scr" src="https://dailylist-2085301.disqus.com/count.js" async></script>
+    		var d = document,
+    			s = d.createElement('script');
+    		s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+    		s.async = true;
+    		s.setAttribute('id', "dsq-count-scr");
+    		(d.head || d.body).appendChild(s);
+    	}
+    });
 })(jQuery);
