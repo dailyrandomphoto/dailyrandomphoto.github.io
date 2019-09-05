@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://www.dailyrandomphoto.com/tags/cat/</loc>
+        <lastmod>2019-09-05T03:39:40.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/animals/</loc>
+        <lastmod>2019-09-05T03:39:40.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.dailyrandomphoto.com/tags/bird/</loc>
+        <lastmod>2019-09-05T03:39:16.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.dailyrandomphoto.com/tags/flower/</loc>
         <lastmod>2019-09-03T06:59:01.246Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,13 +325,6 @@
     </url>
 
     <url>
-        <loc>https://www.dailyrandomphoto.com/tags/animals/</loc>
-        <lastmod>2019-08-06T02:27:37.915Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.dailyrandomphoto.com/tags/lion/</loc>
         <lastmod>2019-08-06T02:27:37.915Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -466,13 +480,6 @@
 
     <url>
         <loc>https://www.dailyrandomphoto.com/tags/traffic-light/</loc>
-        <lastmod>2019-08-05T03:05:53.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.dailyrandomphoto.com/tags/bird/</loc>
         <lastmod>2019-08-05T03:05:53.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
