@@ -16,8 +16,10 @@
           "randomphoto"
         ]
       }
-    },
-    "dailyrandomphoto365": {
+    }
+  },
+  "dailyrandomphoto365": {
+    "hosting": {
         "dailyrandomphoto365": [
           "dailyrandomphoto365"
         ]
