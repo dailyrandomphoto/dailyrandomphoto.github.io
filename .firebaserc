@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "default": "randomphoto365",
+    "dailyrandomphoto365": "dailyrandomphoto365"
+  },
+  "targets": {
+    "randomphoto365": {
+      "hosting": {
+        "dailyrandomphoto": [
+          "dailyrandomphoto"
+        ],
+        "randomphoto365": [
+          "randomphoto365"
+        ],
+        "randomphoto": [
+          "randomphoto"
+        ]
+      }
+    },
+    "dailyrandomphoto365": {
+        "dailyrandomphoto365": [
+          "dailyrandomphoto365"
+        ]
+      }
+    }
+  }
+}

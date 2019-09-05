@@ -1,0 +1,43 @@
+{
+  "hosting": [{
+      "target": "dailyrandomphoto",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "randomphoto365",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "randomphoto",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "dailyrandomphoto365",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    }
+  ]
+}

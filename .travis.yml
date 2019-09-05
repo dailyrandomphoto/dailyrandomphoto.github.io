@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "8"
+script:
+ - echo "Deploy!!"
+install:
+  - npm install -g firebase-tools
+after_success:
+  - firebase deploy --project randomphoto365 --only hosting:dailyrandomphoto --token $FIREBASE_TOKEN
+  - firebase deploy --project randomphoto365 --only hosting:randomphoto365 --token $FIREBASE_TOKEN
+  - firebase deploy --project randomphoto365 --only hosting:randomphoto --token $FIREBASE_TOKEN
+  - firebase deploy --project dailyrandomphoto365 --only hosting:dailyrandomphoto365 --token $FIREBASE_TOKEN
