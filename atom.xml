@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Daily Random Photo</title>
+  <icon>https://www.dailyrandomphoto.com/images/logo.png</icon>
   
-  
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://www.dailyrandomphoto.com/atom.xml" rel="self"/>
   
   <link href="https://www.dailyrandomphoto.com/"/>
   <updated>2020-11-22T15:21:04.000Z</updated>
@@ -14,7 +14,7 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>2020-11-22 (Sun)</title>
@@ -23,11 +23,10 @@
     <published>2020-11-21T16:00:00.000Z</published>
     <updated>2020-11-22T15:21:04.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: lake in the middle of mountains during daytime. Photo by Casey Horner on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: lake in the middle of mountains during daytime. Photo by Casey Horner on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -39,11 +38,10 @@
     <published>2020-11-20T16:00:00.000Z</published>
     <updated>2020-11-21T14:41:01.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: brown rocks on brown field during daytime. Photo by Alex Kramar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: brown rocks on brown field during daytime. Photo by Alex Kramar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -55,11 +53,10 @@
     <published>2020-11-19T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: red leaf plant in close up photography. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: red leaf plant in close up photography. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -71,11 +68,10 @@
     <published>2020-11-18T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: white satellite dish under starry night. Photo by Yang Shuo on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: white satellite dish under starry night. Photo by Yang Shuo on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -87,11 +83,10 @@
     <published>2020-11-17T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: white flowers in blue vase. Photo by 五玄土 ORIENTO on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: white flowers in blue vase. Photo by 五玄土 ORIENTO on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -103,11 +98,10 @@
     <published>2020-11-16T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: red and green plant in white pot. Photo by Akshar Dave on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: red and green plant in white pot. Photo by Akshar Dave on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -119,11 +113,10 @@
     <published>2020-11-15T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: white car on road in between trees during night time. Photo by Vadim Sadovski on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: white car on road in between trees during night time. Photo by Vadim Sadovski on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -135,11 +128,10 @@
     <published>2020-11-14T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: high rise buildings during night time. Photo by dominik reallife on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: high rise buildings during night time. Photo by dominik reallife on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -151,11 +143,10 @@
     <published>2020-11-13T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: brown and black stone fragments. Photo by Clay Banks on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: brown and black stone fragments. Photo by Clay Banks on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -167,11 +158,10 @@
     <published>2020-11-12T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: red and black fishes on water. Photo by Jr Korpa on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: red and black fishes on water. Photo by Jr Korpa on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -183,11 +173,10 @@
     <published>2020-11-11T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: yellow and red leaves on water. Photo by Omid Armin on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: yellow and red leaves on water. Photo by Omid Armin on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -199,11 +188,10 @@
     <published>2020-11-10T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: green and brown trees on forest during daytime. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: green and brown trees on forest during daytime. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -215,11 +203,10 @@
     <published>2020-11-09T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: purple and black polka dot textile. Photo by MagicPattern on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: purple and black polka dot textile. Photo by MagicPattern on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -231,11 +218,10 @@
     <published>2020-11-08T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: white concrete building under blue sky during daytime. Photo by Ronny Rondon on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: white concrete building under blue sky during daytime. Photo by Ronny Rondon on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -247,11 +233,10 @@
     <published>2020-11-07T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: silhouette of mountains during sunset. Photo by Kevin Tribelhorn on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: silhouette of mountains during sunset. Photo by Kevin Tribelhorn on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -263,11 +248,10 @@
     <published>2020-11-06T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: lake in the middle of mountains. Photo by Jan Szwagrzyk on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: lake in the middle of mountains. Photo by Jan Szwagrzyk on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -279,11 +263,10 @@
     <published>2020-11-05T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: white and brown floral wreath. Photo by Jessica Delp on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: white and brown floral wreath. Photo by Jessica Delp on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -295,11 +278,10 @@
     <published>2020-11-04T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: aerial view of road in between trees. Photo by Kristaps Ungurs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: aerial view of road in between trees. Photo by Kristaps Ungurs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -311,11 +293,10 @@
     <published>2020-11-03T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: black mountains under blue sky during daytime. Photo by Jake Weirick on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: black mountains under blue sky during daytime. Photo by Jake Weirick on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -327,11 +308,10 @@
     <published>2020-11-02T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: snow covered mountain during sunset. Photo by Marek Piwnicki on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: snow covered mountain during sunset. Photo by Marek Piwnicki on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -343,11 +323,10 @@
     <published>2020-11-01T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: snow covered mountain during daytime. Photo by Daniel Seßler on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: snow covered mountain during daytime. Photo by Daniel Seßler on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -359,11 +338,10 @@
     <published>2020-10-31T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: person holding black and white textile. Photo by Kelly Sikkema on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: person holding black and white textile. Photo by Kelly Sikkema on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -375,11 +353,10 @@
     <published>2020-10-30T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: brown and blue castle under cloudy sky during daytime. Photo by Bastien Nvs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: brown and blue castle under cloudy sky during daytime. Photo by Bastien Nvs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -391,11 +368,10 @@
     <published>2020-10-29T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: brown and gray fishes on sea shore during night time. Photo by Florian Wehde on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: brown and gray fishes on sea shore during night time. Photo by Florian Wehde on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -407,11 +383,10 @@
     <published>2020-10-28T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: snow covered mountain under orange and blue sky. Photo by Christian Holzinger on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: snow covered mountain under orange and blue sky. Photo by Christian Holzinger on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -423,11 +398,10 @@
     <published>2020-10-27T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: pink and white floral textile. Photo by Solen Feyissa on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: pink and white floral textile. Photo by Solen Feyissa on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -439,11 +413,10 @@
     <published>2020-10-26T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: black and red floral textile. Photo by Valentin Lacoste on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: black and red floral textile. Photo by Valentin Lacoste on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -455,11 +428,10 @@
     <published>2020-10-25T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: aerial view of green trees during daytime. Photo by Kristaps Ungurs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: aerial view of green trees during daytime. Photo by Kristaps Ungurs on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -471,11 +443,10 @@
     <published>2020-10-24T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: green and yellow trees near mountain under white clouds during daytime. Photo by Daniel J. Schwarz on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: green and yellow trees near mountain under white clouds during daytime. Photo by Daniel J. Schwarz on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
@@ -487,11 +458,10 @@
     <published>2020-10-23T16:00:00.000Z</published>
     <updated>2020-11-20T03:50:28.000Z</updated>
     
-    <summary type="html">
     
-      Photo of the Day: gray concrete road between red trees. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.
+    <summary type="html">Photo of the Day: gray concrete road between red trees. Photo by Ingmar on Unsplash. Quote of the Day: ... Free Wallpapers, Backgrounds &amp; Photo Download.</summary>
     
-    </summary>
+    
     
     
   </entry>
